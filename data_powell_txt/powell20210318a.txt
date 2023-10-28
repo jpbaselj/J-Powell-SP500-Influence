@@ -1,0 +1,92 @@
+For release on delivery  
+11:55 a.m. EDT ( 4:55 p.m. CET ) 
+March 18, 2021 
+ 
+       
+Closing Remarks  
+   
+Speech  by 
+ 
+Jerome H. Powell  
+ 
+Chair  
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at 
+ 
+“Pushing the F rontiers of P ayments:  
+ Towards F aster, C heaper, M ore T ransparent and More Inclusive  
+Cross-Border  Payments, ” a conference hosted by  
+the Committee on Payments and Market Infrastructures  
+ 
+Basel, Switzerland  
+(via prerecorded video ) 
+       
+March 18, 2021 
+  
+I would like to thank Sir Jon Cunliffe and the Committee on Payments and 
+Market Infrastructures (CPMI) for inviting me to close out the first day of this conference 
+on pushing the frontiers of payments.     
+Last year, the Group of Twenty (G -20) asked the F inancial Stability Board (FSB) 
+to coordinate the development of a roadmap on how the global community could enhance cross- border payments.  It has long been acknowledged that the existing system, while 
+safe and dependable, suffers from frictions, including  processes that make it difficult to 
+comply with anti -money -laundering and countering- terrorist -financing requirements, 
+difficulty in managing payments across time zones, and, in certain areas, a reliance on outdated technology.  Moreover, these frictions contribute to higher costs for cross -
+border transactions.  
+As with many aspects of life these days, the COVID -19 pandemic has shined a 
+light on the less efficient areas of our current payment system and accelerated the desire 
+for improvement and digitalization.  Even before the pandemic, advancements in the 
+private sector served as a catalyst to get the attention of consumers and to prompt more engagement by the public sector.  
+The goal of the FSB roadmap is simple —to create an ecosystem for cross -border 
+payments that is faster, cheaper, more transparent, and more inclusive.  A year into the process, I am encouraged that we are making meaningful progress.  The stage 3 report released in October laid out a practical set of steps for moving ahead on the 19 buil ding 
+blocks that will bring about an improved system.
+1 
+ 
+1 See Financial Stability Board (2020), Enhancing Cross -Border Payments:  Stage 3 Roadmap (Basel, 
+Switzerland:  FSB, October), https://www.fsb.org/wp -content/uploads/P131020 -1.pdf .   - 2 - 
+Indeed, the themes discussed in the four sessions of the conference today 
+correspond well to approaches described in the building blocks.  The title of the first 
+panel sets up a choice between “improv ing existing rails or laying new tracks.”  As the 
+roadmap makes clear, one of the keys to moving forward will be doing both—improving the existing system where we can while also evaluating the potential of and the best uses for emerging technologies.  As a n example, the Federal Reserve is working to improve 
+the current system through the introduction of instant or fast payments via the FedNow Service.
+2  The  service will be designed to maintain uninterrupted processing—24 hours a 
+day, 7 days a week, 365 days a year —with security features that will ensure payment 
+integrity and data security.   The target launch date is sometime 2023.* 
+The Federal Reserve is also doing its part to examine the role of new 
+technologies.  Experiments with central ba nk digital currencies (CBDCs) are being 
+conducted at the Board of Governors, as well as complementary efforts by the Federal 
+Reserve Bank of Boston in collaboration with researchers at MIT.  In addition, a recent 
+report from the Bank for International Settlements and a group of seven central banks, which includes the Fed, assessed  the feasibility of CBDCs in helping central banks 
+deliver their public policy objectives .
+3  Relevant to today’s topic, one of the three key 
+principles highlighted in the report i s that a CBDC needs to coexist with cash and other 
+types of money in a flexible and innovative payment system.   
+ 
+2 See Board of Governors of the Federal Reserve System (2020), “Federal Reserve Announces Details of 
+New 24x7x365 Interbank Settlement Service with Clearing Functionality to Support Instant Payments in 
+the United States,” press release, August 6, 
+https://www.federalreserve.gov/newsevents/pressrelea ses/other20200806a.htm . 
+3 See Bank for International Settlements (2020), “Central Banks and BIS Publish First Central Bank Digital 
+Currency (CBDC) Report Laying Out Key Requirements,” press release, October 9, https://www.bis.org/press/p201009.htm .  
+* This sentence was updated after publication: the phrase "sometime in late 2023 or 2024" was updated to 
+"sometime in 2023".   - 3 - 
+Improvements in the global payments system will come not just from the public 
+sector, but from the private sector as well.  As today’s second p anel, “Of Lions and 
+Unicorns,” described, the private sector has the experience and expertise to develop 
+consumer -facing infrastructure that improves and simplifies how the public engages with 
+the financial system.  Digitalization of financial services, co mbined with an improved 
+consumer experience, can help increase financial inclusion, particularly in countries or areas with a large unbanked population.  
+And the last two panels of the day, “Addressing Legal Barriers to Cross -Border 
+Payments” and “Harmonis ed Data to Oil the Cross -Border Payments Machinery,” 
+highlight that improving the system must be a collaborative effort.  By definition, cross -
+border payments involve multiple jurisdictions.  So it will only be through countries working together, via all of the international forums —the Group of Seven, the G -20, the 
+CPMI, the FSB, and others —that solutions will be possible.   
+And, finally, it is only by engaging all stakeholders —policymakers, private -sector 
+participants, and academia—as this conference is do ing, that we will achieve the 
+improved payments ecosystem we are striving toward. 
+The COVID crisis has brought into even sharper focus the need to address the 
+limitations of our current arrangements for cross -border payments.  And as this 
+conference amply demonstrates, despite the challenges of this last year , we still have 
+been able to make important progress.  I again thank the CPMI and Jon Cunliffe for their leadership and look forward to working together as we improve these payments for businesses and i ndividuals alike.  
+ 

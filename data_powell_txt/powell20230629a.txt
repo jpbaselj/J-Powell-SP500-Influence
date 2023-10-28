@@ -1,0 +1,127 @@
+For release on delivery  
+2:30 a.m. EDT ( 8:30 a.m. local time ) 
+June 29, 2023 
+ 
+       
+Financial Stability and Economic Developments  
+   
+Remarks by  
+ 
+Jerome H. Powell  
+ 
+Chair  
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at the 
+ 
+Banco de Espana Fourth Conference on Financial Stability  
+  
+Madrid, Spain 
+       
+June 29, 2023 
+  
+Today I will briefly discuss the current economic situation and the stresses that 
+emerged in the U.S. banking system earlier this year.  I will then turn to the evolution of 
+the financial system since the Great Recession and conclude with a few general observations.  I will highlight how global efforts to boost resilience in the financial sector 
+over the p ast decade have been an important success.  I will also discuss how recent 
+developments have revealed residual vulnerabilities that we are going to address, and the need to be vigilant for emerging risks.   
+U.S. economic growth slowed significantly last ye ar, and recent indicators 
+suggest that economic activity has continued to expand at a modest pace.  Growth in consumer spending has picked up this year, and some indicators in the housing market have turned up recently.  At the same time, activity in the h ousing sector remains far 
+below its peak in early 2022, reflecting the effects of higher mortgage rates.  Higher 
+interest rates and slower output growth also appear to be weighing on business fixed 
+investment.  
+The labor market remains very tight.  Over th e past three months, payroll job 
+gains have been robust.  The unemployment rate has moved up but remains low.  There 
+are some signs that supply and demand in the labor market are coming into better balance, including higher labor force participation, some easing in nominal wage growth, and declining vacancies.  While the jobs- to-workers gap has declined, labor demand still 
+substantially exceeds the supply of available workers.  
+Inflation , however, remains well above our longer -run goal of 2 percent.  Over the 
+12 months ending in May, total personal consumption expenditures ( PCE) prices are 
+estimated to have risen 3.9 percent; excluding the volatile food and energy categories,  - 2 - 
+core PCE prices likely rose 4.7 percent.  Inflation has moderated somewhat since the  
+middle of last year.  Nonetheless, inflation pressures continue to run high, and the process 
+of getting inflation back down to 2 percent has a long way to go.  
+Since early last year, we have raised our policy rate by 5 percentage points.  We 
+see the effec ts of our policy tightening on demand in the most interest  rate–sensitive 
+sectors of the economy, particularly housing and investment.  It will take time, however, 
+for the full effects of monetary restraint to be realized, especially on inflation.   
+The economy is also facing headwinds from tighter credit conditions for 
+households and businesses, which are likely to weigh on economic activity, hiring, and inflation.  Tighter credit conditions are a natural result of tighter monetary policy.  But the bank st resses that emerged in March may well lead to a further tightening in credit 
+conditions.  The extent of these effects remains uncertain.   
+At our last meeting, the Federal Open Market Committee (FOMC) decided to 
+maintain the target range for the federal fu nds rate at 5 to 5¼ percent while continuing 
+the process of significantly reducing our securities holdings.  We made this decision in light of the distance we have come in tightening policy, the uncertain lags in monetary policy, and the potential headwinds from credit tightening.  As noted in the FOMC’s Summary of Economic Projections, a strong majority of Committee participants expect that it will be appropriate to raise interest rates two or more times by the end of the year.
+1      
+When bank stress emer ged in March, we acted in concert with other government 
+agencies to address it, enabling the F ederal D eposit I nsurance C orporation to resolve two 
+failed banks in a manner that protected all depositors.  We also used our liquidity tools to 
+ 
+1 The most recent Summary of Economic Projections is available on the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm .   - 3 - 
+make funding avai lable to banks that might need it.  In addition to our discount window, 
+we established a new facility under our emergency lending authorities, the Bank Term 
+Funding Program.  Our provision of liquidity through these tools supported the stability of the fin ancial system without restricting the use of our monetary policy tools to firm the 
+stance of policy as part of our efforts to reduce inflation.  The banking system remains sound and resilient, deposit flows have stabilized, and strains have eased.  
+Evoluti on of the S ystem since the Great Recession  
+A little more than a decade ago, the Global Financial Crisis required extraordinary 
+interventions by governments around the world.  Stabilizing the U.S. financial system required coordinated efforts by all parts of the government, including $700 billion in taxpayer funds to recapitalize banks, a suite of Fed emergency liquidity facilities, as well as government guarantees on bank transaction accounts and money market mutual funds. Despite these efforts, the Great Recession brought misery to countless millions.  
+As the c risis slowly receded, authorities in the U .S. and around the world 
+implemented a host of reforms.  The goal was to build a system that could withstand severe shocks, including unanticipated ones that might arrive from any direction.  In other words, a financial system that would be a source of strength during stressful periods.  
+A key pillar was building resilience in the banking system.  This effort was 
+remarkably successful.  Over the course of the decade, capital and liquidity at the largest U.S. banks more than doubled.  We began a program of rigorous annual stress tests to ensure the banking system was capitalized against severe recessions and financial market turmoil.   - 4 - 
+The Great Recession also under scored the critical importance of the nonbank 
+sector.  Here , too, the authorities have undertaken a number of steps to build resilience, 
+although much remains to be done. 
+In 2020 the financial system was again tested, facing a truly unprecedented shock 
+as the pandemic brought the global economy to a standstill.  Investors scrambled for 
+safety and liquidity during the “dash for cash. ”  Financial markets came under extreme 
+pressure.  Ultimately, the authorities had to support financial markets again as part o f the 
+extremely forceful monetary and fiscal response to the public health emergency.  The banking system, however, was now far more resilient than it had been before  the reforms 
+and thus well positioned to absorb the shock.  
+We cannot take the resilience of the financial system for granted , however .  The 
+multiple shocks we have seen over the past year or so —including the extreme volatility 
+in commodity markets following Russia’s invasion of Ukraine and, of course, 
+surprisingly high and persistent inflation as well as the associated increase in interest rates— stressed a range of bank and nonbank financial institutions.  
+Three G eneral O bservations S temming from the R ecent B anking T urmoil   
+Given the efforts to build resilience in the banking system over the past decade 
+and a half, two  natural question s are, why did Silicon Valley Bank (SVB) and two other 
+sizable U.S. banks fail this spring , and why did Credit Suisse —a global systemically 
+important bank (G -SIB) —require a government -supported rescue acquisition?   We are 
+committed to learning the lessons from the U.S. bank failures for our program of supervision and regulation.  I will offer three observations about the events.   - 5 - 
+The first observation is that it is very difficult to resist the natural human tendency 
+to fight the last war.  In 2008 we saw banks come under stress from outsized credit losses 
+and insufficient liquidity.  Such losses appeared possible in the early days of the 2020 crisis, although they ultimately did not materialize.  In our stress tests, we have considered severe stress scenarios that produced losses on banks’ books, including outsized credit losses.  But, of course, SVB ’s vulnerability came not from credit risk,  but 
+from excessive interest rate risk exposure and a business model that was vulnerable in ways its management did not fully appreciate, including a hea vy reliance on uninsured 
+deposits.  
+These events suggest a need to strengthen our supervision and regula tion of 
+institutions of the size of SVB.  I look forward to evaluating proposals for such changes and implementing them where appropriate.
+2  Much will depend on getting the specifics 
+right, and we should bear in mind that there are always tradeoffs in any financial 
+regulation.  In addition, the U .S. has benefited from its rich, multi -tiered banking 
+ecosystem , and that diversity should be preserved.  
+The second observation is the value of forthrightly recognizing when a crisis is 
+building and responding dec isively.  When SVB failed it was clear that a number of 
+standard assumptions, even though they were informed by hard experience, were wrong.  
+Notably, bank runs were no longer a matter of days or weeks —they could now be nearly 
+instantaneous.  Fortunately, in concert with other parts of the government, we were able 
+to act decisively to meet the liquidity needs of the banking system, protect depositors , and 
+limit contagion.  
+ 
+2 Of course, any rule change will go through the standard rulemaking process, including public notice and 
+comment, and have appropriate phase -in and transition periods.   - 6 - 
+The third observation is the value of having the very largest banks be highly 
+resilien t.  Our regulatory system is much stronger for the substantial additional 
+safeguards we have built around the G -SIBs since the Great Recession.  They are subject 
+to capital surcharges, required to be highly liquid, and held to the highest supervisory 
+stand ards.  The events of the past couple of months would have been much more difficult 
+to manage had the largest banks been undercapitalized or illiquid.  Conclusion 
+The Great Recession was a watershed moment, demonstrating the terrible 
+consequences a fragile financial system  can have on people’s lives .  In response, 
+regulators in the U .S. and around the globe set out to build a much more resilient 
+financial system.  And the ensuing experiences of the pandemic and the past few months did much to validate this a pproach.  
+The bank runs and failures in 2023, however, were painful reminders that we 
+cannot predict all of the stresses that will inevitably come with time and chance.  We therefore must not grow complacent about the financial system’s resilience.  And building and maintaining that resilience requires collaboration.  The system was able to 
+withstand recent shocks because of the efforts by regulators and legislators, including  
+our international counterparts in the  globally interconnected financial system.  
+We will take these lessons on board , and we will keep learning, as we must, 
+because the work of building and maintaining a resilient financial system is never done. 

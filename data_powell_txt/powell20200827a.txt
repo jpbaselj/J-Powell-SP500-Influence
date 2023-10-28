@@ -1,0 +1,497 @@
+For release on delivery  
+9:10 a.m. EDT (8:10 a.m. CDT)  
+August 27, 2020 
+ 
+ 
+      
+New Economic Challenges and the Fed’s Monetary Policy Review  
+   
+Remarks by 
+ 
+Jerome H. Powell  
+ 
+Chair  
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at 
+ 
+“Navigating the Decade Ahead:  Implications for Monetary Policy, ” an economic  policy 
+symposium  sponsored by the Federal Reserve Bank of Kansas City  
+ 
+Jackson Hole, Wyoming  
+(via webcast)  
+       
+August 27, 2020 
+  
+Thank you, Esther, for that introduction, and good morning.  The Kansas City 
+Fed’s Economic Policy Symposiums have consistently served as a vital platform for 
+discuss ing the most challenging economic issues of the day.  Judging by the agenda and 
+the papers , this year will be no exception.  
+For the past year and a half, my colleagues and I on the Federal Open Market 
+Committee (FOMC) have been conducting the first -ever public review of our monetary 
+policy framework.1  Earlier today we released a revised Statem ent on Longer -Run Goals 
+and Monetary Policy Strategy, a document that lays out our goals, articulates our 
+framework for  monetary policy, and serves as the foundation for our policy actions.2  
+Today I will discuss our review, the changes in the economy that  motivated us to 
+undertake it, and our revised statement, which encapsulates the main conclusions of the review.  
+Evolution of the Fed’s Monetary Policy Framework  
+We began this  public review in early 2019 to assess the monetary policy strategy, 
+tools, and c ommunications that would best foster achievement of our congressionally 
+assigned goals of maximum employment and price stability over the years ahead in 
+service to the American people.  Because the economy is always evolving, the FOMC’s 
+strategy for achiev ing its goals —our policy framework— must adapt to meet the new 
+challenges that arise.  Forty years ago, the biggest problem our economy faced was  high 
+and rising inflation.
+3  The Great Inflation demanded  a clear  focus on restoring the 
+                                                 
+1 See Board of Governors (2018) and Clarida (2019).  
+2 The revised Sta tement on Longer -Run Goals and Monetary Policy Strategy is available on the Board’s 
+website at https://www.federalreserve.gov/newsevents/pressreleases/monetary20200827a.htm . 
+3 Consumer price inflation, which was running below 2 percent in the early 1960s, had risen into the double 
+digits by the late 1970s and was slightly above 12 percent when the Committee gathered for an 
+unscheduled meeting in the Eccles Building in Washington, D.C., on a Saturday in October 1979— before  - 2 - 
+credibility of the FOM C’s commitment to price stability.  Chair Paul  Volcker brought 
+that focus to bear, and the “Volcker disinflation ,” with the continuing stewardship of 
+Alan Greenspan, led to the stabilization of inflation and inflation expectations in the 
+1990s at around 2 percent.  The monetary policies of the Volcker era laid the foundation for the long period of economic stability known as the Great Moderation.  This new era brought new challenges to the conduct of monetary policy.  Before the Great Moderation, expansions  typically ended in overheating and rising inflation.  Since then, prior to the 
+current pandemic- induced downturn, a series of historically long expansions had been 
+more likely to end with episodes of financial instability, prompting essential efforts to substantially increase the strength and resilience of the financial system.
+4 
+By the early 2000s, many central banks around the world had adopted a monetary 
+policy framework known as inflation targeting.5  Although the precise features of 
+inflation targetin g differed from country to country, the core framework always 
+articulated  an inflation goal as a primary objective of monetary policy.  Inflation targeting 
+was also associated with increased communication and transparency designed to clarify 
+the central ba nk’s policy intentions .  This emphasis on transparency reflected what was 
+then a new appreciation that policy is most effective when it is clearly understood by the public.  Inflation -targeting central banks generally do not focus solely on inflation:  
+Those with “flexible” inflation targets take into account economic stabilization in 
+addition to their inflation objective.  
+                                                 
+the days when transparency was the hallmark of institutional accountability —and decided to change the 
+conduct of monetary policy.  See Volcker and Gyohten (1992); also see Volcker (2008) , pp. 73 –74. 
+4 See Powell (2019).  
+5 For a readable explanation of inflation targeting, see Bernanke and Mishkin (1997); also s ee Bernanke 
+and others (1999).   - 3 - 
+Under Ben Bernanke’s leadership, the Federal Reserve adopted many of the 
+features associated with flexible inflation targeting.6  We mad e great advances in 
+transparency and communications, with the initiation of quarterly press conferences and 
+the Summary of Economic Projections (SEP), which comprises the individual economic forecasts of FOMC participants.   During that time, then –Board Vic e Chair Janet Yellen 
+led an effort on behalf of the FOMC to codify the Committee’s approach to monetary policy.  I n January 2012, the Committee issued its first Statement on Longer -Run Goals 
+and Monetary Policy Strategy, which we often refer to as the cons ensus statement .  A 
+central part  of this statement was the articulation of a longer -run inflation goal of 
+2 percent.
+7  Because the structure of the labor market is strongly influenced by 
+nonmonetary factors that can change over time, the Committee did not set a numerical  
+objective for maximum employment .  However , the statement affirmed the Committee ’s 
+commit ment  to fulfilling both of its congressionally mandated goals.  The 2012 statement 
+was a significant milestone , reflecting lessons learned from  fightin g high inflation as well 
+as from experience around the world with flexible inflation targeting .  The statement 
+largely articulated the policy framework the Committee had been following for some time.
+8 
+Motivation for the Review  
+The completion of the or iginal consensus statement in January 2012 occurred  
+early on in the recovery from the Global Financial Crisis, when notions of what the “ new 
+normal” might bring were quite uncertain .  Since then, our understanding of the economy 
+                                                 
+6 For the formalization and development of the concept of flexible inflation targeting, see Svensson (1999) 
+and, more recently, Svensson (2020) . 
+7 As measured by the annual change in the price index for personal consumption expenditures.  
+8 See Board of Governors (2012), p. 43.   - 4 - 
+has evolved in ways that are central to monetary policy.  Of course, the conduct of 
+monetary policy has also evolved.  A key purpose of our review has been to take stock of the lessons learned over this period and identify any further changes in our moneta ry 
+policy framework that could enhance our ability to achieve our  maximum- employment 
+and price -stability objectives in the years ahead.
+9   
+Our evolving understanding of four key economic developments motivated our 
+review .  First , assessments of the potenti al, or longer -run, growth rate of the economy 
+have declined.  For example, since January 2012, the median estimate of potential growth from FOMC participants has fallen from 2.5 percent to 1.8 percent (see figure 1).  Some slowing in growth relative to ear lier decades was to be expected, reflecting slowing 
+population growth and the aging of the population .  More troubling has been the decline 
+in productivity growth, which is the primary driver of improving living standards over time.
+10 
+Second, the general le vel of interest rates  has fallen both here in the United States 
+and around the world.  Estimates of the neutral federal funds rate, which is the rate consistent  with the economy operating at full strength and with stable inflation, have 
+fallen substantially, in large part reflect ing a fall in the equilibrium real interest rate, or 
+“r-star.”  This rate is not affected by monetary policy but instead is driven by 
+fundamental factors in the economy, including demographics and productivity growth —
+the same factor s that drive potential economic growth.
+11  The median estimate from 
+                                                 
+9 On the benefits of holding a review, see Fuhrer and others (2018).  
+10 Between 1995 and 2003, business -sector output per hour increased at an annual rate of 3.4 percent, and it 
+has risen only 1.4 percent since then.  Fernald (2015) suggests 2003 as a break point for the beginning of 
+the productivity slowdown.  See also Ferna ld (2018) , Gordon (2017),  and Powell (2018).  
+11 Estimates of r -star have fallen between 2 and 3 percentage points over the past two decades.  For 
+evidence on the secular decline in interest rates in the United States and abroad see, for instance, Holston,  - 5 - 
+FOMC participants of the neutral federal funds rate has fallen by nearly half since early 
+2012, from 4.25 percent to 2.5 percent (see figure 2).  
+ This decline in assessments of the neutral federal funds rate has profound 
+implications for monetary policy.  With interest rates generally running closer to their effective lower bound even in good times, the Fed has less scope to support the economy during an economic downturn by simply cutting t he federal funds rate.
+12  The result can 
+be worse economic outcomes in terms of both employment and price stability, with the costs of such outcomes likely falling hardest on those least able to bear them.  
+Third, and on a happier note, the record -long expan sion that ended earlier this 
+year led to the best labor market  we had seen in some time .  The unemployment rate 
+hovered near 50- year lows for roughly 2 years , well below most estimates of its 
+sustainable level .  And the unemployment rate captures only part  of the story.  Having 
+declined significantly in the five years following the crisis, the labor force participation 
+rate flattened out and began rising even though the aging of the population suggested that 
+it should keep falling.
+13  For individuals in their prime working years, the participation 
+rate fully retraced its post- crisis decline, defying earlier assessments that the G lobal 
+Financial Crisis  might  cause permanent structural damage to the labor market.  
+                                                 
+Laubach, and Williams (2017) and Lunsford and West (2019).  See also the recent evidence in Lopez -
+Salido and others (2020).  
+12 Both the experience following the Global Financial Crisis and the current situation drive this point home.  
+After the Global Finan cial Crisis, the Fed held the federal funds rate at the lower bound for seven years.  
+Thereafter, as the economy strengthened, the federal funds rate reached a peak just above 2 percent.  By 
+comparison, the federal funds rate averaged a little more than 5 percent in the 1990s.  And, at the onset of 
+the COVID pandemic, we quickly cut rates to the effective lower bound.  But since the federal funds rate 
+was only about 1 -1/2 percent before the pandemic —because that is what the economy required at that 
+time—our  scope to reduce the federal funds rate was far less than in earlier recessions.  
+13 The labor force participation rate for prime -age individuals (those between 25 and 54 years old), which is 
+much less sensitive to the effects of population aging, has been r ising over the past few years and continued 
+to increase in 2019.  For a longer -run perspective, see the analysis presented in Aaronson and others 
+(2014).   - 6 - 
+Moreover, as the long e xpansion continued, the gains began to be shared more 
+widely across society .  The B lack and Hispanic unemployment rates reached record lows, 
+and the differentials between these rates and the white unemployment rate narrowed to 
+their lowest levels on record .14  As we heard repeatedly in our Fed Listens events, the 
+robust job market  was delivering  life-changing gains for many individuals, families, and 
+communities, particularly at the lower end of the income spectrum .15  In addition, many 
+who had been left behi nd for too long were finding jobs, benefiting their families and 
+communities, and increasing the productive capacity of our economy.  Before the pandemic, there was every reason to expect that these gains would continue.  I t is hard to 
+overstate the benefi ts of sustaining a strong labor marke t, a key national goal that will 
+require a range of policies in addition to supportive monetary policy.  
+Fourth, the historically strong labor market  did not trigger a significant rise in 
+inflation.  Over the years , forecasts from FOMC participants and private- sector analysts 
+routinely showed a return to 2 percent inflation, but these forecasts were never realized  
+on a sustained basis (see figure 3) .
+  Inflation forecasts are typically predicated on 
+estimates  of the nat ural rate of unemployment , or “ u-star,” and of  how much upward 
+pressure on inflation arises when the unemployment rate f alls relative to u -star.16  As the 
+unemployment rate moved lower and inflation remained muted, estimates of u -star were 
+revised down.  For example, the median estimate from FOMC participants declined from 
+                                                 
+14 The decline in the unemployment rate for African Americans has been particularly sizable, and its 
+average rate in the second half of October 2019 was the lowest recorded since the data began to be reported 
+in 1972; see Board of Governors (2020a).  See also Daly (2020) and Aaronson and others (2019).  
+15 Information on the Fed Listens  events is available on  the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/review -of-monetary -policy -strategy -tools -and-
+communications -fed-listens -events.htm . 
+16 A discussion of various concepts of unemployment rate benchmarks that are frequently used by 
+policymakers for assessing the current state of the economy is presented in Crump and others (2020).   - 7 - 
+5.5 percent in 2012 to 4.1 percent at present (see figure 4) .  The muted responsiveness of 
+inflation to labor market tightness, which we refer to as the flattening of the Phillips 
+curve, also contributed to low inflation outcomes .17  In addition, longer -term inflation 
+expectations, which we have long seen as  an important driver of actual inflation, and 
+global disinflationary pressures may have been holding down inflation more than was 
+generally anticipated.  Other advanced economies have also struggled to achieve their 
+inflation goals in recent decades.  
+The persistent undershoot of inflation from our 2 percent longer -run objective is a 
+cause for concern.  Many find it counterintuitive th at the Fed would want to push up 
+inflation.  After all, low and stable inflation is essential for a well- functioning economy.  
+And we are certainly mindful that higher prices for essential items, such as food , 
+gasoline,  and shelter, add to the burdens faced by many families, especially those 
+struggling with lost jobs and incomes.  However,  inflation that is persistently too low can 
+pose serious risks to the economy.  Inflation that runs below its desired level can lead to an unwelcome fall in longer -term in flation expectations, which, in turn, can pull actual 
+inflation even lower, resulting in an adverse cycle of ever -lower inflation and inflation 
+expectations. 
+This dynamic is a problem because expected inflation feeds directly into the 
+general level of inte rest rates.   Well -anchored inflation expectations are critical for giving 
+the Fed the latitude to support employment when necessary without destabilizing 
+inflation.
+18  But if inflation expectations  fall below our 2 percent objective, interest rates 
+                                                 
+17 See, for instance, Blanchard, Cerutti, and Summers (2015).  
+18 The success of monetary policy in taming high and variable inflation in the 1980s and 1990s was 
+instrumental in anchoring inflation expectations at low levels.  See, for instance, Goodfriend (2007).   - 8 - 
+would de cline in tandem.  In turn, we would have less scope to cut interest rates to boost 
+employment during an economic downturn, further diminish ing our capacity to stabilize 
+the economy through cutting interest rates.   We have seen this adverse dynamic play out  
+in other major economies  around the world and have learned that  once it sets in, it can  be 
+very difficult to overcome.  W e want to do what we can to prevent such a dynamic  from 
+happening here . 
+Elements of the Review  
+We began our review with these changes in the economy in mind.  The review 
+had three pillars:  a series of Fed Listens events held around the country, a flagship 
+research conference, and a series of Committee discussions supported by rigorous staff 
+analysis .  As is appropriate in our democratic  society , we have sought extensive 
+engagement with the public throughout the review . 
+The Fed Listens events built on a long- standing practice around the Federal 
+Reserve System of engag ing with community groups.  The 1 5 events involved a wide 
+range of parti cipants—workforce development  groups , union members, small business 
+owners, residents of low - and moderate -income communities, retirees, and others —to 
+hear about how our policies affect peoples’  daily lives and livelihoods.19  The stories we 
+heard at Fed Li stens events became a potent vehicle for us to connect with the people and 
+communities that our policies are intended to benefit.   One of the clear messages we 
+heard was that the strong labor market  that prevailed before the pandemic was generating 
+                                                 
+19 See the report Fed Listens:  Perspectives from the Public (Board of Governors, 2020b) , which  
+summarizes the 14  Fed Listens  events hosted by the Board and the Federal Reserve Banks during 2019 , as 
+well as  an additional event in May 2020 to follow up with parti cipants about the effects of the COVID- 19 
+pandemic on their communities.   Information on the individual Fed Listens  events is available on the 
+Board ’s website at https://www.federalreserve.gov/monetarypolicy/review -of-monetary -policy -strategy -
+tools -and-communications -fed-listens -events.htm .  - 9 - 
+employm ent opportunities for many Americans who in the past had not found jobs 
+readily available.   A clear takeaway from these events was the importance of achieving 
+and sustaining a strong job market , particularly for people from low - and moderate -
+income communi ties. 
+The research conference brought together some of the world’s leading academic 
+experts to address topics central to our review, and the presentations and robust 
+discussion we engaged in were an important input to our review process.20 
+Finally, the Comm ittee explored the range of issues that were brought to light 
+during the course of the review in five consecutive meetings beginning in July 2019.  Analytical staff work put together by teams across the Federal Reserve System provided 
+essential background for each of the Committee’s discussions.
+21 
+Our plans to conclude the review earlier this year were, like so many things, 
+delayed by the arrival of the pandemic.  When we resumed our discussions last month, 
+we turned our attention to distilling the most important lessons of the review in a revised  
+Statement on Longer -Run Goals and Monetary Policy Strategy. 
+New Statement on Longer -Run Goals and Monetary Policy Strategy 
+The federated structure of the Federal Reserve, reflected in the FOMC, ensures 
+that we alway s have a diverse range of perspectives on monetary policy, and that is 
+certainly the case today.  Nonetheless, I am pleased to say that the revised consensus statement was adopted today with  the unanimous support of Committee  participants .  Our 
+                                                 
+20 The Federal Reserve System’s “Conference on Monetary Policy Strategy, Too ls, and Communication 
+Practices (A Fed Listens  Event)” was hosted by the Federal Reserve Bank of Chicago in June 2019.  See 
+https://www.federalreserve.gov/conferences/conference -monetary -policy -strategy -tools -communications -
+20190605.htm  for the conference program, links to the conference papers and presentations, and links to 
+session videos.  A special  issue of the Internationa l Journal of Central Banking  (February 2020) included 
+five of the seven papers presented at the conference  (see https://www.ijcb.org/journal/ijcb2002.htm ). 
+21 See the overview presented in Altig and  other s (2020) .    - 10 - 
+new consens us statement, like its predecessor, explains how we interpret the mandate 
+Congress has given us and describes the broad framework that we believe will best 
+promote our maximum -employment and price -stability goals.  Before addressing the key 
+changes in our statement, let me highlight some areas of continuity.  We continue to believe that specifying a numerical goal for employment is unwise, because the maximum level of employment is not directly measurable and changes over time for reasons unrelated to monet ary policy.  The significant shifts in estimates of the natural 
+rate of unemployment over the past decade reinforce this point.  In addition, w e have not 
+changed our view that a longer -run inflation rate of 2 percent is most consistent with our 
+mandate to promote both maximum employment and price stability .  Finally, we continue 
+to believe that monetary policy must be forward looking, taking into account the expectations of households and businesses and the lags in monetary policy’s effect on the economy.  Thus, our policy actions continue to depend on the economic outlook as well 
+as the risks to the outlook, including potential risks to the financial system that could impede the attainment of our goals.  
+The key innovations in our new consensus statement ref lect the changes in the 
+economy I described.  Our new statement explicitly acknowledges the challenges posed by the proximity of interest rates to the effective lower bound.  By reducing our scope to support the economy by cutting interest rates, the lower  bound increases downward risks 
+to employment and inflation.
+22  To counter these risks, we are prepared to use our full 
+range of tools  to support the economy.   
+                                                 
+22 See Caldara and others (2020 ).  - 11 - 
+With regard to the employment side of our mandate, our revised statement 
+emphasizes that maximum employment is a broad -based and inclusive goal.  This change 
+reflects our appreciation for the benefits of a strong labor market , particularly for many in 
+low- and moderate -income communities .23  In addition, our revised statement says that 
+our policy decision will be informed by our “assessments of the shortfalls  of employment 
+from its maximum level” rather than by “ deviations  from its maximum level” as in our 
+previous statement.24  This change may appear subtle, but it reflects our view that a 
+robust job market can be sustained without causing an outbreak of inflation. 
+In earlier decades when the Phillips curve was steeper, inflation tended to rise 
+noticeably in response to a strengthening labor market.  It was sometimes appropriate for 
+the Fed to tighten monetary policy as employment rose toward its estimated maximum level in order to stave off an unwelcome rise in inflation.  The change to “shortfalls” clarifies that, going forward, employment can run at or above real -time estimates of its 
+maximum level without causing concern, unless accompanied by signs of unwanted increases in inflation or the emergence of other risks that could impede the attainment of our goals.
+25  Of course, when employment is below its maximum level, as is clearly the 
+                                                 
+23 The analysis of how alternative strategies that succeed in reducing the frequency and/or severity of ELB 
+recessions can induce longer run beneficial effects on economic inequality is presented in Feiveson  and 
+others (2020) . 
+24 Italics added for emphasis.  The 2012 statement noted that the Committee would mitigate “deviations” of 
+employment from the Committee’s assessments of its maximum level, suggesting that the Committee 
+would actively seek to lower employment if it assessed that employment was above the Committee’s 
+estimate of its maximum level.  In practice, the Committee has not conducted policy in this way, but rather has supported continued gains in the labor market.  
+25 In addition, because real -time estimates are highly uncertain, we no longer refer to estimates of the 
+natural rate of unemployment from the SEP in our consensus statement.  Another reason for dropping this reference is that the unemployment rate does not adequately capture the full range of experience in the 
+labor market.  The SEP will continue to report FOMC participants’ estimates of the longer -run level of the 
+unemployment rate, as such information remains a useful, albeit highly incomplete, input into our policy deliberations.   - 12 - 
+case now, we will actively seek to minimize that shortfall by using our tools to support 
+economic growth and job creation.  
+We have also made important changes with regard to th e price- stability side of 
+our mandate.  Our longer -run goal continues to be an inflation rate of 2 percent.  Our 
+statement emphasizes that our actions to achieve both sides of our dual mandate will be most effective if longer -term inflation expectations re main well anchored at 2 percent.  
+However, if inflation runs below 2 percent following economic downturns but never moves above 2 percent even when the economy is strong, then, over time, inflation will average less than 2  percent.  Households and business es will come to expect this result, 
+meaning that inflation expectations would tend to move below our inflation goal and pull realized inflation down.  To prevent this outcome and the adverse dynamics that could ensue, our new statement indicates that we wi ll seek to achieve inflation that averages 
+2 percent over time.  Therefore, following periods when inflatio n has been running below 
+2 percent, appropriate monetary policy will likely aim to achieve inflation moderately above 2 percent for some time. 
+ In se eking to achieve inflation that averages 2 percent over time, we are 
+not tying ourselves to a particular mathematical formula that defines the average.  Thus, our approach could be viewed as a flexible form of average inflation targeting.
+26  Our 
+decisions a bout appropriate monetary policy will continue to reflect a broad array of 
+considerations and will not be dictated by any formula.  Of course, if excessive 
+                                                 
+26 This strategy embodies some key lessons from the general class of makeup strategies that have been 
+analyzed extensively in the economics literature.  The literature has emphasized that the proximity of 
+interest rates to the effective lower bound poses an a symmetric challenge for monetary policy, increasing 
+the likelihood that inflation and employment will tend to be too low.  An extensive discussion about how 
+these issues affect the design of monetary policy, as well as the relevant related literature, can be found in 
+Duarte and others (2020) , Arias and others (2020) , and Hebden and others (2020).   - 13 - 
+inflationary pressures were to build or inflation expectations were to ratchet above levels 
+consistent with our goal, we would not hesitate to act.  
+The revisions to our statement add up to a robust updating of our monetary policy 
+framework.  To an extent, these revisions reflect the way we have been conducting policy in recent years.  At the same time, h owever, there are some important new features.  
+Overall, our new Statement on Longer -Run Goals and Monetary Policy Strategy conveys 
+our continued strong commitment to achiev ing our goals , given the difficult challenges 
+presented by the proximity of interes t rates to the effective lower bound.  In conducting 
+monetary policy, we will remain highly focused on fostering as strong a labor market as possible for  the benefit of all Americans.  And we will steadfastly seek to achieve a 
+2 percent inflatio n rate over  time.  
+Looking Ahead  
+Our review has provided a platform for productive discussion and engagement 
+with the public we serve.  The Fed Listens events helped us connect with our core constituency, the American people, and hear directly how their everyday lives  are 
+affected by our policies.  We believe that conducting a review at regular intervals is a good institutional practice, providing valuable feedback and enhancing transparency and accountability.  And with the ever -changing economy, future reviews will a llow us to 
+take a step back, reflect on what we have learned, and adapt our practices as we strive to achieve our dual -mandate goals.  As our statement indicates, we plan to undertake a 
+thorough public review of our monetary policy strategy, tools, and com munication 
+practices roughly every five years.  
+   - 14 - 
+References  
+ 
+Aaronson, Stephanie, Tomaz Cajner, Bruce Fallick, Felix Galbis -Reig, Christopher 
+Smith, and William Wascher (2014).  “Labor Force Participation:  Recent 
+Developments and Future Prospects,” Brooki ngs Papers on Economic Activity , 
+Fall, pp. 197 –275, https://www.brookings.edu/wp -
+content/uploads/2016/07/Fall2014BPEA_Aaronson_et_al.pdf . 
+Aaronson, Stephanie, Mary C. Daly, William Wascher, and David W. Wilcox (2019).  
+“Okun Revisited:  Who Benefits Most from a Strong Economy?” Brookings Papers on Economic Activity,  Spring, pp. 333–75, 
+https://www.brookings.edu/wp- content/uploads/2019/03/Aar onson_web.pdf . 
+Altig, David, Jeff Fuhrer, Marc P. Giannoni, and Thomas Laubach (2020).  “The Federal 
+Reserve’s Review of its Monetary Policy Framework:  A Roadmap,” FEDS Notes.  Washington:  Board of Governors of the Federal Reserve System, August  27, https://doi.org/10.17016/2380- 7172.2767. 
+Arias, Jonas, Martin Bodenstein, Hess Chung, Thorsten Drautzburg, and Andrea Raffo 
+(2020).  “Alternative Strategies:  How Do They Work?  How Might They Help?” Finance and Economics Discussion Series 2020 -068.  Washington:  Board of 
+Governors of the Federal Reserve System, August, https://doi.org/10.17016/FEDS.2020.068.  
+Bernanke, Ben S., Thomas Laubach, Frederic S. Mishkin, and Adam S. Posen (1999).  
+Inflation Targeting:  Lessons from the International Experience.  Princeton, N.J .:  
+Princeton University Press.  
+Bernanke, Ben S., and Frederic S. Mishkin (1997).  “Inflation Targeting:  A New 
+Framework for Monetary Policy?” Journal of Economic Perspectives, vol. 11 
+(Spring), pp. 97–116. 
+Blanchard, Olivier J., Eugenio M. Cerutti, and Lawrence Summers (2015).  “Inflation and 
+Activity —Two Explorations and Their Monetary Policy Im plications,” IMF 
+Working Paper 15/230.  Washington:  International Monetary Fund, https://www.imf. org/en/Publications/WP/Issues/2016/12/31/Inflation -and-
+Activity -Two-Explorations -and-their- Monetary- Policy -Implications -43377. 
+Board of Governors of the Federal Reserve System (2012).  “Meeting of the Federal 
+Open Market Committee on January 24–25, 2012,” transcript.  Washington:  Board of Governors, https://www.federalreserve.gov/monetarypolicy/files/FOMC 20120125 meeting.pdf . 
+——— (2018).  “ Federal Reserve to Review S trategies, Tools, and Communication 
+Practices It Uses to Pursue Its Mandate of Maximum Employment and Price Stability ,” press release, November 15, 
+https://www.fe deralreserve.gov/newsevents/pressreleases/monetary 20181115a .htm.  - 15 - 
+——— (2020a), Monetary Policy Report.  Washington:  Board of Governors, February, 
+https://www.federalreserve.gov/monetarypolicy/files/20200207 _mprfullreport.pdf . 
+——— (2020b).  Fed Listens:  Perspectives from the Public,  report.  Washington:  Board 
+of Governors, June, https://www.federalreserve.gov/publications/files/fedlistens -
+report -20200612.pdf .  
+Caldara, Dario, Etienne Gagnon, Enrique Martínez -García, and Christopher J. Neely 
+(2020).  “Monetary Policy and Economic Performance since the Financial Crisis,” 
+Finance and Economics Discussion Series 2020 -065.  Washington:  Board of 
+Governors of the Federal Reserve System, August, https://doi.org/10.17016/FEDS.2020.065. 
+Clarida, Richard H. (2019).  “The Federal Reserve’s Review of Its Monetary Policy 
+Strategy, Tools, and Communication Practices,” speech delivered at the 2019 U.S. Monetary Policy Forum, sponsored by the Initiative on Global Markets at the University of Chicago Booth School of Business, held in New York, February 22, https://www.federalreserve.gov/newsevents/speech/clarida20190222a.htm . 
+Crump, Richard, Christopher Nekarda, and Nicolas Petrosky -Nadeu (2020).  
+“Unemployment Rate Benchmarks,” Finance and Economics Discussion Series 2020- 072.  Washington:  Board of Governors of the Federal Reserve System, 
+August, https://doi.org/10.17016/FEDS.2020.072. 
+Daly, Mary C. (2020).  “ We Can’t Afford Not To,” speech delivered at the National Press 
+Club Virtual Event, Washington, June 15, available at https://www.frbsf.org/our -
+district/press/presidents -speeches/mary -c-daly/2020/june/we -cant-afford -not-to. 
+Duarte, Fernando, Benjamin K. Johannsen, Leonardo Melosi, and Taisuke Nakata  (2020).  
+“Strengthening the FOMC's Framework in View of the Effective Lower Bound 
+and Some Considerations Related to Time -Inconsistent Strategies ,” Finance and 
+Economics Discussion Series 2020 -067.  Washington:  Board of Governors of the 
+Federal Reserve System, August, https://doi.org/10.17016/FEDS.2020.067. 
+Feiveson, Laura, Nils Goernemann, Julie Hotchkiss, Karel Mertens, and Jae Sim  (2020).  
+“Distributional Considerations for Monetary Policy Strategy,” Finance and 
+Economics Discussion Series 2020 -073.  Washington:  Boar d of Governors of the 
+Federal Reserve System, August, https://doi.org/10.17016/FEDS.2020.073. 
+Fernald, John G. (2015).  “Productivity and Potential Output before, during, and after the 
+Great Recession, ” in Jonathan A. Parker and Michael Woodford, eds., NBER 
+Macroeconomics Annual 2014, vol. 29.  Chicago:  University of Chicago Press , 
+pp. 1–51. 
+——— (2018). “Is Slow Productivity and Output Growth in Advanced Economies the 
+New Normal?” International Productivity Monitor, vol. 35 (Fall), pp. 138–48.  - 16 - 
+Fuhrer, Jeff, Giovanni P. Olivei, Eric S. Rosengren, and Geoffrey M.B. Tootell (2018).  
+“Should the Federal Reserve Regularly Evaluate Its Monetary Policy 
+Framework?” Brookings Papers on Economic Activity,  Fall, pp. 443–97, 
+https://www.brookings.edu/wp- content/uploads/2018/09/Fuhrer -et-al_Text.pdf . 
+Goodfriend, Marvin (2007).  “How the World Achieved Consensus on Moneta ry Policy,” 
+Journal of Economic Perspectives, vol. 21 (Fall), pp. 47–68. 
+Gordon, Robert J. (2017).  The Rise and Fall of American Growth:  The U.S. Standard of 
+Living since the Civil War.   Princeton, N.J.:  Princeton University Press.  
+Hebden, James, Edward  P. Herbst, Jenny Tang, Giorgio Topa, and Fabian Winkler 
+(2020).  “How Robust Are Makeup Strategies to Key Alternative Assumptions?” Finance and Economics Discussion Series 2020 -069.  Washington:  Board of 
+Governors of the Federal Reserve System, August, https://doi.org/10.17016/FEDS.2020.069.  
+Holston, Kathryn, Thomas Laubach, and John C. Williams (2017).  “Measuring the 
+Natural Rate of Interest:  International Trends and Determinants,” Journal of International Economics, vol. 108 (May, S1), pp. S59–75. 
+Lopez -Salido, David, Gerardo Sanz -Maldonado, Carly Schippits, and Min Wei  (2020).  
+“Measuring the Natural Rate of Interest:  The Role of Inflation Expectations,” FEDS Notes.  Washington:  Board of Governors of the Federal Reserve System, June 19, https://doi.org/10.17016/2380- 7172.2593. 
+Lunsford, Kurt G., and Kenneth D. West (2019).  “Some Evidence on Secular Drivers of 
+U.S. Safe Real Rates,” America n Economic Journal:  Macroeconomics , vol. 11 
+(October), pp. 113–39.  
+Powell, Jerome H. (2018).  “Opening Remarks:  Monetary Policy in a Changing 
+Economy.”  In Federal Reserve Bank of Kansas City , ed., Changing Market 
+Structure and Implications for Monetary  Policy:  A Symposium Sponsored by the 
+Federal Reserve Bank of Kansas City,  Jackson Hole, Wyo., August 23–25.  
+Kansas City, Mo.:  FRB Kansas City, pp.  1–
+ 18, 
+https://www.kansascityfed.org/~/media/files/publicat/sympos/ 2018/powell 2018.pdf
+?la=en . 
+——— (2019).  “Opening Remarks:  Challenges for Monetary Policy.”  In Federal 
+Reserve Bank of Kansas City , ed., Challenges for Monetary Policy :  A 
+Symposium Sponsored by the Federal Reserve Bank of Kansas City,  Jackson 
+Hole, Wyo., August 22–24.  Kansas City, Mo.:  FRB Kansas City, pp. 1– 16, 
+https://www.kansascityfed.or g/~/media/files/publicat/sympos/2019/powell 2019.pdf
+?la=en . 
+Svensson, Lars E. O. (1999).  “Inflation Targeting as a Monetary Policy Rule,” Journal 
+of Monetary Economics , vol. 43 (June), pp. 607– 54.  - 17 - 
+——— (2020).  “Monetary Policy Strategies for the Federal Reserve,” International 
+Journal of Central Banking, vol. 16 (February), pp. 133–93, 
+https://www.ijcb.org/journ al/ijcb2002_3.pdf . 
+Volcker, Paul A. (2008).  Interview by Donald L. Kohn, Lynn S. Fox, and David H. 
+Small (second day of interview), Federal Reserve Board Oral History Project,  
+Board of Governors of the Federal Reserve System.  Washington:  Board of Governors, January 28, https://www.federalreserve.gov/aboutthefed/files/paul- a-
+volcker -interview -20080225.pdf . 
+Volcker, Paul A., and Toyoo Gyohten (1992).  Changing Fortunes:  The World’s Money 
+and the Threat to American Leade rship.  New York:  Crown.  Figure 1: Real-Time Projections of Longer-Run Real Gross Domestic Product Growth
+1.752.002.252.50
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+FOMC Blue Chip CBOPercent
+Note: The Federal Open Market Committee (FOMC) data are quarterly, extend through June 2020, and are
+median projections of longer-term normal; for 2015:Q1 and 2015:Q2, the data are central tendency midpoints. The
+Blue Chip data are biannual, extend through March 2020, and are consensus projections for 6 to 10 years in the future.
+The Congressional Budget Oﬃce (CBO) data are biannual, extend through July 2020, and are baseline projections
+for the calendar year 10 years ahead.
+Source: For FOMC, Summary of Economic Projections, available on the Board’s website at
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm; for Blue Chip, Wolters Kluwer, Blue Chip
+Economic Indicators; for CBO, Congressional Budget Oﬃce (The Budget and Economic Outlook, 10-Year Economic
+Projections).Figure 2: Real-Time Projections of Longer-Run Federal Funds Rate
+2.002.252.502.753.003.253.503.754.004.25
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+FOMC Blue Chip CBOPercent
+Note: The Federal Open Market Committee (FOMC) data are quarterly, extend through June 2020, and are
+median projections of longer-term normal (rounded to the nearest1/8percentage point). The Blue Chip data are
+biannual, extend through June 2020, and are consensus estimates for 6 to 10 years in the future. The Congressional
+Budget Oﬃce (CBO) data are biannual, extend through July 2020, and are baseline projections of the three-month
+Treasury bill rate for the calendar year 10 years ahead.
+Source: For FOMC, Summary of Economic Projections, available on the Board’s website at
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm; for Blue Chip, Wolters Kluwer, Blue Chip
+Financial Forecasts; for CBO, Congressional Budget Oﬃce (The Budget and Economic Outlook, 10-Year Economic
+Projections).Figure 3: Evolution of Real-Time Projections for Personal Consumption Expenditures Inﬂation
+2012
+20132014
+2015201620172018
+2019
+2020
+0.250.500.751.001.251.501.752.002.25
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+FOMC Meeting Date (FOMC) or Survey Vintage (Survey of Professional Forecasters)
+FOMC Survey of Professional ForecastersPercent
+Note: The Federal Open Market Committee (FOMC) data, represented by the solid lines, are median projections
+published quarterly; the latest data vintage is June 2020. For 2015:Q1 and 2015:Q2, the data are central tendency
+midpoints. The Survey of Professional Forecasters (SPF) data, represented by the dashed lines, are median projections
+published quarterly; the latest data vintage corresponds to 2020:Q3.
+Source: For FOMC, Summary of Economic Projections, available on the Board’s website at
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm; for SPF, Federal Reserve Bank of Philadelphia.Figure 4: Real-Time Projections of Longer-Run Unemployment Rate
+4.04.55.05.56.0
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+FOMC Blue Chip CBOPercent
+Note: The Federal Open Market Committee (FOMC) data are quarterly, extend through June 2020, and are
+median projections of longer-term normal; for 2015:Q1 and 2015:Q2, the data are central tendency midpoints. The
+Blue Chip data are biannual, extend through March 2020, and are consensus projections for 6 to 10 years in the future.
+The Congressional Budget Oﬃce (CBO) data are biannual, extend through July 2020, and correspond to the baseline
+estimate of the underlying long-term rate of unemployment for the current quarter at the time of the projection.
+Source: For FOMC, Summary of Economic Projections, available on the Board’s website at
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm; for Blue Chip, Wolters Kluwer, Blue Chip
+Economic Indicators; for CBO, Congressional Budget Oﬃce (The Budget and Economic Outlook, 10-Year Economic
+Projections).

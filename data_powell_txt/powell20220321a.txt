@@ -1,0 +1,301 @@
+For release on delivery  
+12.30 PM  EDT  
+March 21, 2022 
+ 
+       
+Restoring Price Stability  
+   
+Remarks by  
+ 
+Jerome H. Powell  
+ 
+Chair Pro Tempore  
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at 
+ 
+“Policy Options for Sustainable and Inclusive Growth”  
+38th Annual Economic Policy Conference  
+National Association for Business Economics  
+ 
+Washington, D.C.  
+       
+March 21, 2022   
+Thank you for the opportunity to speak with you today.  
+Let me first pause to recognize the millions who are suffering the tragic 
+consequences of Russia’s inva sion of Ukraine .  
+At the Federal Reserve, our monetary policy is guided by the dual mandate  to 
+promote maximum e mployment and stable prices .  From th at standpoint , the current 
+picture is plain to see:  The labor market  is very strong, and inflation is much too high.  
+My colleagues and I are ac utely aware that high inflation imposes significant hardship, 
+especially o n those least able to meet the higher costs of essentials like food, housing, and 
+transportation.  There is an obvious need to move expedit iously to  return the stance of 
+monetary policy to a more neutral level, and then to move to more restrictive levels if  that 
+is what is required to restore price stability.  We are committed to restoring price stability 
+while preserving a strong labor market.  
+At our meeting that  concluded last week, we took several steps in pursuit of these 
+goals:  We raised our policy in terest rate for the first time since the start of the pandemic 
+and said  that we anticipate that ongoing rate increases will be appropriate  to reach our 
+objectives.  We also said  that we expect to  begin reducing the size of our balance sheet at 
+a coming mee ting.  In my press conference, I noted that  action  could come as soon as our 
+next meeting in May , though that is not a decision that we  have made.   These actions, 
+along with the adjustments we have made since last fall, represent a substantial firming in 
+the stance of policy with the intention of restoring price stability.  In my comments today, I will first discuss the economic conditions that warran t these actions and then address th e 
+path ahead for monetary policy.   - 2 - 
+ 
+The L abor Market I s Very  Strong and Extremely  Tight 
+To begin with employment, in the last few years of the historically long expansion 
+that ended with the arrival of the pandemic, we saw the remarkable benefits of an 
+extended period of strong labor market conditions.  We seek to foster another long 
+expansion in order to realize those benefits again.   
+The labor market has substantial momentum.  Employment growth powered 
+through the  difficul t Omicron wave, adding 1.75 million jobs over the past three months.  
+The unemployment rate has fallen to 3.8 percent,  near historic al lows, and ha s reached 
+this level much faster than anticipated by most forecasters (figure 1) .  While disparities in 
+emplo yment remain, j ob growth has been widespread across racial, ethnic, and 
+demographic  groups .  
+By many measures, the labor market is extremely tight , significantly tighter than 
+the very strong job market  just before the pandemic .  There are far  more job openings  
+going unfilled  today than before  the pandemic , despite today’s  unemployment rate being 
+higher.  I ndeed, there  are a record 1.7 posted job openings for each person who is looking 
+for wor k.  R ecord numbers of people are quitting jobs each month, typically to take 
+another job with higher pay.  And nominal wages are rising at the fastest pace in decades,  
+with the gains strongest for those at the lower end of the wage distribution  and among 
+production and nonsupervisory workers  (figure 2 ).   
+It is worth considering why the  labor market is so tight,  given that the 
+unemployment rate  is actually higher than it was before the pandemic .  One explanation 
+is that the natural rate of unemployment may be  temporarily elevated, so wage pressure is 
+greater  for a ny given level of unemployment.  The sheer volume of hiring may have  - 3 - 
+ 
+taxed the capacity of the market to bring workers and jobs together.  The Delta and 
+Omicron variants complicated hiring, and the strong financial position of households may 
+have allowed some to be more selective in their job search.   Over time, we might expect 
+these factors to fade, reducing pressure in the job market.  
+A second source of l abor market tightness is  that the  labor force participation rate 
+dropped sharply in the pandemic and has only partly recovered.  As  a result, the labor 
+force remains below its pre -pandemic trend (figure  3).  Total demand for labor , measured 
+by total employ ment plus posted job openings, has  substantially recovered  and far 
+exceed s the size of the workforce .   
+About half of th e shortfall in labor force participation is  attributable to retirements 
+during the pandemic.1  History suggests that most of those reti rees are unlikely to reenter 
+the workforce .  But some nonparticipation is due to factors  that may fade with time,  such 
+as caregiving needs and fear of cont racting COVID- 19.  W ith prime -aged participation 
+still well below its pre -pandemic level , there is ro om for further progress .  A more 
+complete rebound is , however, likely to take some time .  Increases in l abor force 
+participation  often  substantially lag declines in unemployment .   
+Overall, the labor market is strong but showing a clear imbalance of supply and 
+demand.  Our monetary policy tools cannot help with labor supply in the near term , but in 
+a long expansion, the factors holding back supply wi ll likely ease .  In the meantime, we 
+aim to use our tools to moderate demand growth, thereby facilitating continued, 
+sustainable increases in employment and wages.     
+ 
+1 See the discussion of labor force participation in Board of Governors of the Federal Reserve System 
+(2022), Monetary Policy Report  (Washington:  Board of Governors, February),  
+https://www.federalreserve.gov/monetarypolicy/files/20220225_mprfullreport.pdf .  - 4 - 
+ 
+The I nflation O utlook Has Deteriorated S ignificantly  
+Turning to price stability, the inflation outlook had deteriorated sig nificantly this 
+year even before Russia’s invasion of Ukraine.    
+The rise in i nflation has been much greater and more persistent than forecasters 
+generally  expected.  For example, at the time of our June 2021 meeting, every Federal 
+Open Market Committee (FOMC)  participant and all but one of 35 submissions in the 
+Survey of Professional Forecasters predicted that 2021 inflation would be below 4 
+percent .  Inflation came in at 5.5 percent.2  
+For a time, moderate inflation forecast s looked plaus ible—the one -month 
+headline and core inflation rate s declined steadily from April  through September .  But 
+inflation moved up sharply in the fall, and , just since our December meeting , the median 
+FOMC projection for year -end 2022 jumped from 2.6 percent to 4.3 percent.  
+Why have forecasts been so far off?  In my view, an important part of the 
+explanation is that forecasters widely underestimat ed the severity and persistence of 
+supply- side frictions , which, when combined with strong demand, especia lly for durable 
+goods, produced surprisingly high inflation.    
+The pandemic  and the associated shutdown and reopening of the economy caused 
+a serious upheaval in many parts  of the economy, snarling supply chains, constraining 
+labor supply, and creating a major boom in demand for goods and a bust in s ervices 
+demand.  The combination of the surge in goods demand with  supply chain bottlenecks 
+ 
+2 This is headline personal consumption expenditures inflation on a Q4/Q4 basis.  The Survey of 
+Professional Forecasters statistic is a count by the authors using the second quarter 2021 survey.  The data 
+are available on the Federal Reserve Bank of Philadelphia’s website at 
+https://www.philadelphiafed.org/surveys -and-data/real -time-data-research/survey -of-professional -
+forecasters .  - 5 - 
+ 
+led to sharply rising  goods prices (figure 4).  The most notable example here is motor 
+vehicles.  Prices soared  across the vehicles sector as b ooming demand was met by a sharp 
+decline in global production during the summer of 2021, owing to shortages of computer 
+chips .  Production remains below pre -pandemic levels, and an expected sharp decline in 
+prices has been repeated ly postponed.    
+Many  forecasters, including FOMC participants , had been expecting inflation to 
+cool in the second half of last year, as the economy started going back to normal after vaccines became widely  available.
+3  Expectations were that the supply- side damage 
+would begin to heal.  Schools would reopen—freeing parents to return to work—and labor supply would begin bouncing back, kinks in supply chains would begin resolving, 
+and consumption would start rotating back to services, all of which could reduce price pressures.  While schools are open,  none of the  other expectations has  been fully met .  
+Part of the reason may be that , contrary to expectations, COVID has not gone away with 
+the arrival of vaccines .   In fact, we are now headed once again into more COVID- related 
+supply disruptions from China.  It continues to seem likely that hoped- for supply- side 
+healing will come over time as the world ultimately settles into some new normal, but  the 
+timing and scope of that r elief are highly uncertain.  In the meantime,  as we set policy , 
+we will be looking to actual  progress on these issues and not assuming  significant near -
+term supply -side relief.    
+The P olicy Response 
+As the magnitude  and persistence of the increase in inflation  became increasingly 
+clear  over the second half of last year , and as the job market recovery accelerated beyond 
+ 
+3 See the minutes  of the June 2021 FOMC meeting, which are available on the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm .   - 6 - 
+ 
+expectations , the FOMC pivoted to progressively less accommodative monetary policy.  
+In June, the median FOMC parti cipant projected that the federal funds rate would remain 
+at its effective lower bound through the end of 2022, and as the news came in, the 
+projected policy paths shifted higher  (figure 5) .  The median projection that accompanied 
+last week’s 25 basis poin t rate increase shows the federal funds rate at 1.9 percent by the 
+end of this year and rising above its estimated longer -run normal value in  2023.  The 
+latest FOMC statement  also indicates that the Committee expects to begin reducing the 
+size of our balan ce sheet at a coming meeting.  I believe that these policy actions and 
+those to come will help bring inflation down near 2 percent over the next 3 years.  
+As always, our  policy projections are not a C ommittee decision or fixed plan.  
+Instead, they are a su mmary of what the FOMC participants see as the most likely case 
+going forward.  T he events of the past four  week s remind us  that, in tumultuous times , 
+what seems like the most likely scenario may change quite quickly :  Each S ummary of 
+Economic Projections  reflects  a point in time and can become outdated quickly at times 
+like these, when events are developing rapidly.    
+Thus, my main message today is  that, as the outlook evolves, we will adjust 
+policy as needed in orde r to e nsure a return to price stability with a strong job market .  
+Let me now turn  to three questions about the likely evolution of policy.  
+How will fallout from the invasion of Ukraine aff ect the economy and monetary 
+policy?  Russia’s invasion of Ukraine may  have significant effects on the world economy 
+and the U.S. economy.  The  magnitude and persistence of these effects remain highly 
+uncertain and depend on events yet to come .    - 7 - 
+ 
+Russia is one of the world’s largest producers of commodities , and Ukraine is a 
+key producer of several commodities  as well , including wheat and neon, which is used in 
+the production of computer chips .  There is no recent experience with significant market 
+disrupti on across such a broad range of commodities.  In addition to the direct effects 
+from higher global oil and commodity prices, the invasion and related events are likely to 
+restrain economic activity abroad and further disrupt supply chains, which would crea te 
+spillovers to the U.S. economy.   
+We might look to the historical experience with oil price shocks in the 1970s —
+not a happy story.  Fortunately, the United S tates is now much better situated to weather 
+oil price shocks.4  We are now the world’s largest producer of oil, and our economy is 
+significantly less oil intensive  than in the 1970s .  Today a rise in oil prices has mixed 
+effects on the economy, lowering real household incomes and thus demand, but  raising  
+investment i n drilling over time and benefiting oil -producing areas more generally.  On 
+net, oil shocks tend to weigh on output in the U.S. economy, but  by far less than in the 
+1970s.   
+Second, how likely is it that monetary policy can lower i nflation without c ausing a 
+recession?   Our goal is to restore price stability while fostering another long expansion 
+and sustaining a strong labor market .  In the  FOMC participant  projections  I just 
+described, the economy achieves a soft landing, with inflation coming down and 
+unemployment holding steady.  Growth slows as the very fast growth from the early 
+ 
+4 I discussed this topic more fu lly in Jerome H. Powell (2019), “Data -Dependent Monetary Policy in an 
+Evolving Economy,” speech delivered at “Trucks and Terabytes:  Integrating the ‘Old’ and ‘New’ 
+Economies,” 61st Annual Meeting of the National Association for Business Economics, Denver,  Colo., 
+October 8, https://www.federalreserve.gov/newsevents/speech/powell20191008a.htm .  - 8 - 
+ 
+stages of reopening fades, the effects of fiscal support wane, and monetary policy 
+accommodation is removed.  
+Some have argued that  history s tacks the odds against achieving a soft landing, 
+and point to the 1994 episode as the  only successful soft landing in the postwar period .  I 
+believe that the historical record provides some  grounds  for optimism :  Soft, or at least 
+soft-ish, landings have b een relatively common in U.S. monetary  history.5  In three 
+episodes —in 1965, 1984, and 1994—the Fed raised the federal funds rate significantly  in 
+response to perceived overheating without precipitating a recession (figure 6).6  In other 
+cases, recessions chronologically followed the conclusion of a tightening cycle, but the recessions w ere not apparently due to excessive tightening  of monetary policy .  For 
+example, the tightening from 2015 to 2019 was followed by the pandemic -induced 
+recession.
+7 
+I hasten to add that no one expect s that bringing about a soft landing will be 
+straightforward in the current context —very little is straightforward in  the current 
+context .  And monetary policy is often said to be a blunt instrument, not capable of 
+surgical precision.  My colleagues and I will do our very best to succeed in this challenging task.  It is worth noting that t oday t he economy is very strong and is well 
+positioned to handle tighter monetary policy.   
+ 
+5 See Alan Blinder (2022), “Landings Hard and Soft:  The Fed, 1965 –2020,” slides f rom a presentation 
+delivered at Markus’ Academy, Bendheim Center for Finance, Princeton University, Princeton, N.J., 
+February 11, https://bcf.princeton.edu/wp- content/ uploads/2022/01/Combined -Slides.pdf .   
+6 I have identified these episodes by a single important year in the tightening cycle, but in each case , the 
+period of tightening spanned more than one year.  
+7 As I argued  more fully  in a pr evious speech , while the postwar recessions up through 1981 were arguably 
+the result of stop -and-go policy, none of the recessions since then fit that mold so clearly ; see Jerome H. 
+Powell (2018), “Monetary Policy in a Changing Economy,” speech delivered at “Changing Market 
+Struct ure and Implications for Monetary Policy,” a symposium sponsored by the Federal Reserve Bank of 
+Kansas City, held in Jackson Hole, Wyo., August 24, https://www.federalrese rve.gov/newsevents/speech/powell20180824a.htm .    - 9 - 
+ 
+Finally, w hat will it take to restore price stability ?  The ultimate responsibility for 
+price stability rests with the Federal Reserve.  Price stability is essential if we are going to 
+have another sustained period of strong labor market conditions.  I believe that the policy 
+approach that I have laid out  is well  suited to achieving this outcome .  We will take the 
+necessary steps to ensure a return to price stability.  In particular, if we co nclude that it is 
+appropriate to move more aggressively by raising the federal funds rate by more than 25 basis points at a meeting or meetings, we will do so.  And if we determine that we need to 
+tighten beyond common measures of neutral  and into a more r estrictive stance, we will 
+do that as well.     
+  Our monetary policy framework, as embodied in our S tatement o n Longer -Run 
+Goals and Monetary P olicy S trategy , emphasizes that having longer -term inflation 
+expectations anchored at our longer -run objective of 2 percent helps us achieve both our 
+dual-mandate objectives.  While we cannot measure longer -term expectations directly, 
+we monitor a variety of survey - and market- based indicators.  In the recent period, short -
+term inflation expectations have, of course, risen with inflation , but l onger -run 
+expectations  remain well  anchored in their historical ranges (figure 7).   
+The added near -term upward pressure from the  invasion of  Ukraine on inflation 
+from energy, food, and other commodities comes at a time of already too high inflation .  
+In normal times, when employment and inflation are close to our objectives, monetary 
+policy would look through a brief burst of inflat ion associated with commodity price 
+shocks.  However, the risk is rising that an extended period of high inflation could push longer -term expectations uncomfortably higher, which underscores the need for the 
+Committee to move expeditiously as I have descri bed. - 10 - 
+Conclusion   
+The past t wo ye ars have be en extraordinarily challenging for many Americans.  
+Two years ago, more than 20 million people were losing their jobs , millions w ere fa lling 
+ill, and lives were being disrupted.  We have made enormous strides since then .  Today, 
+as I have discussed, the labor market is very strong.  But, to end w here I began, i nflation 
+is much too high.  We have the necessary  tools, and we will use them to restore price 
+stability. 
+Note: On April 7, 2022, the legend for Figure 3 was corrected to "CPS employment plus 
+job openings."0246 810 121416 1820Monthly
+0246 810121416 1820Percent
+2006 2008 2010 2012 2014 2016 2018 2020 2022Figure 1. The unemployment rate has fallen sharply
+   Source: Bureau of Labor Statistics, Employment Situation, via Haver Analytics.Total
+Black
+Hispanic0123456789Monthly
+0123456789Percent change from year earlier
+1995 1998 2001 2004 2007 2010 2013 2016 2019 2022Figure 2. Wage growth has surged particularly for low-wage workers
+Average Hourly Earnings
+   Source: Bureau of Labor Statistics, Employee Hours,
+via Haver Analytics.All
+Production workers
+02468101214Weekly
+02468101214Percent change from year earlier
+Feb. May Aug. Nov. Feb. May Aug. Nov. Feb.
+2020Bottom
+Bottom-middle
+Top-middle
+Top
+2021   2022Trimmed Mean Wage Growth by Wage Quartile    Note: Quartiles defined by hourly wage distribution frombase period of year-over-year calculation. Wages aremeasured as hourly earnings, excluding tips, overtime, andother forms of compensation.   Source: Federal Reserve Board staff calculations; ADP,Inc.Feb. 19135140 145 150155160 165 170Quarterly
+135 140 145 150155160 165 170Millions
+2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022Figure 3. Labor demand has recovered but labor
+supply has not
+   Source: For labor force, Bureau of Labor Statistics, Employment Situation; for
+CPS employment plus job openings, Bureau of Labor Statistics, Job Openingsand Labor Turnover Survey, via Haver Analytics; for both, Federal Reserve Board
+staff calculations.   Note: CPS labor force data adjusted for effects of population controls. Solid
+circles give January levels.CPS employment plus job openings
+Labor force-202468101214Monthly
+-202468101214Percent change from year earlierFigure 4. Inflation has been rising, particularly for goods
+1980 1986 1992 1998 2004 2010 2016 2022
+   Note: PCE is personal consumption expenditures.   Source: Bureau of Economic Analysis, Personal Incomeand Outlays, via Haver Analytics.Total PCE inflation
+Core PCE inflation
+-10-5051015202530Monthly
+-10-5051015202530Percent change from year earlier
+1998 2002 2006 2010 2014 2018 2022
+   Note: PCE is personal consumption expenditures.   Source: Bureau of Economic Analysis, Personal Incomeand Outlays, via Haver Analytics.Core goods PCE
+Core services PCE
+Motor vehicles PCE0.00.51.01.52.02.53.0Annual
+0.00.51.01.52.02.53.0Percent
+2021 2022 2023 2024June 2021September 2021 December 2021March 2022Figure 5. FOMC participants project a higher federal                funds rate path
+   Note: Figure reports the median expectation of FOMC participants for thefederal funds rate at the end of the year indicated.   Source: Summary of Economic Projections, available on the Board’s websiteat https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.-202468101214161820Monthly
+-202468101214161820Federal funds rate, percent
+1966 1973 1980 1987 1994 2001 2008 2015 2022
+   Note: The shaded bars indicate periods of business recession as defined by theNational Bureau of Economic Research (NBER): December 1969 to November1970, November 1973 to March 1975, January 1980 to July 1980, July 1981 to November 1982, July 1990 to March 1991, March 2001 to November 2001,December 2007 to June 2009, and February 2020 to April 2020.Figure 6. Three soft landings    Source: Federal Reseve Board, Statistical Release H.15, "Selected InterestRates".2.02.53.03.54.04.55.0Monthly
+2.02.53.03.54.04.55.0Percent
+1990 1994 1998 2002 2006 2010 2014 2018 2022
+   Note: The series are medians of the survey responses about average inflationduring the next 5 to 10 years. March data are preliminary.Figure 7. Longer-run expectations remain well-                anchored in their historical ranges    Source: University of Michigan Surveys of Consumers.

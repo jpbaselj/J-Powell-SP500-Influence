@@ -1,0 +1,370 @@
+For release on delivery  
+2:00 p.m. E ST  
+February 10, 2021 
+ 
+ 
+      
+Getting Back to a Strong Labor Market  
+   
+Remarks by 
+ 
+Jerome H. Powell  
+ 
+Chair  
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at 
+ 
+The Economic Club of New York  
+ 
+(via webcast)  
+       
+February 10, 20 21 
+  
+Today I will discuss the state of our labor market, from the recent past  to the 
+present and then over the longer term.   A strong labor market that is sustained for an 
+extended period can deliver substantial economic and social benefits, including higher 
+employment and income  levels, improved and expanded job opportunities, narrow er 
+economic disparities, and healing of the entrenched  damage inflicted by past recessions 
+on individuals’ economic and personal well -being .  At present, we are a long way from 
+such a labor market.  Fully realizing the benefits of a strong labor market will take continued support from both near -term policy and longer -run investments so that all those 
+seeking jobs have the skills and opportunities that will enable them to contribute to, and share in, the  benefits of prosperity.   
+The L abor Market of a Y ear A go  
+We need only look to February of last year  to see how beneficia l a strong labor 
+market  can be .  The overall unemployment rate was 3.5 percent, the lowest level in a 
+half-century .  The unemployment rate for African Americans had also reached historical 
+lows ( figure  1).  Prime -age labor force participation was the highest in over a decade, and 
+a high proportion of households saw jobs as “plentiful.”
+1  Overall wage growth was 
+moderate, but wages were rising more rapidly for earners on the lower end of the scale .  
+These encouraging statistics were reaffirmed and given voice by those we met and 
+conferred with, including  the community, labor, and business leaders ; retirees;  students ; 
+and others we met with during the 1 4 Fed Listens events we conducted in 2019.2   
+                                                 
+1 Data from the Conference Board’s “Jobs Are Plentiful” series (February 2020).   For more on the 
+Conference Board, see https://www.conference -board.org . 
+2 Another Fed Listens  event was held in 2020 to discuss  the effects of the COVID -19 pandemic.  For a 
+summary of all of the Fed Listens  events, see the report  Fed Listens:  Perspectives from the Public,  
+available on the Board’s website at https://www.federalreserve.gov/publications/files/fedlistens -report -
+20200612.pdf .  - 2 - 
+Many of the se gains had emerged only in the la ter years of the expansion .  The  
+labor force participation rate, for example , had been steadily declining from 2008 to 2015 
+even as the recovery from the G lobal F inancial Crisis unfolded.  In  fact, in 2015, prime -
+age labor force participation —which I focus on because it is not significantly affected by  
+the aging of the population—reached its  lowest level in 30 years even as the 
+unemployment rate declined to a relatively low 5 percent .  Also concerning was  that 
+much of the decline in participation up to that point had been concentrated in the 
+population without a college degree (figure  2).  At the time, many forecasters worried  
+that globalization and technological change might have permanently reduced job 
+opportunities f or these individuals , and that, as a result, there might be  limited  scope for 
+participation to recover.   
+Fortunately, the participation rate after 2015 consistently outperformed 
+expectations , and by the beginning of 2020, the prime -age participation rate had fully 
+reversed its  decline from  the 2008- to-2015 period .  Moreover, gains in participation were 
+concentrated among people  without a college degree.  Given that U.S. labor force 
+participation has lagged relative to other advanced economy nations , this progress was 
+especially welcome (figure 3) .3    
+As I mentioned, we also saw f aster wage growth for low earners once the labor 
+market ha d strengthened sufficiently.  Nearly six years into the recovery, wage growth 
+for the lowest earning quartile had been persistently modest and well below the pace 
+enjoyed by other workers.  At the tipping point of 2015, however , as the labor market 
+                                                 
+3 For data comparing labor force participation rates across countries, see Organisation for Economic Co-
+operation and Development  (2021), “Labour Force Participation Rate” (indicator), OECD Data,  
+https://doi.org/10.1787/8a801325 -en.  - 3 - 
+continued to strengthen, the trend reversed, with wage growth for the lowest quartile 
+consistently and significantly exceed ing that of other workers  (figure  4).   
+At the end of 2015, the Black unemployment rate was still quite elevated, at 
+9 percent, despite the relatively low overall unemployment rate.  But that disparity too 
+began to shrink; as the expansion continued beyond 2015, Black unemployment reached 
+a historic low of 5.2 percent, and the gap between Black and white unemployment rates 
+was the narrowest since 1972, when data on unemployment by race started to be  
+collected .  Black unemployment has tended to rise more than o verall unemployment in 
+recessions but also to fall more quickly in expansions.4  Over the course of a long 
+expansion, these persistent disparities can decline  significantly , but, without policies to 
+address their underlying causes,  they may increase again  when the economy ultimately 
+turns down.    
+These late -breaking improvements in the labor market did not result in unwanted 
+upward pressures on inflation, as might have been expected ; in fact, i nflation  did not even 
+rise to 2 percent  on a sustained basis .  There was every reason to expect that the labor 
+market c ould have strengthened  even further without causing a worrisome increase in 
+inflation were  it not for the onset of the pandemic . 
+                                                 
+4 For a description of labor market outcomes by race  and ethnicity  over the business cycle, see Stephanie R. 
+Aaronson, Mary C. Daly, William L. Wascher, and David W. Wilcox (2019) , “Okun Revisited:  Who 
+Benefits Most from a Strong Economy? ” in James H. Stock and Janice Eberly, eds., Brookings Papers on 
+Economic Activity  (Washington:  Brookings Institution Pres s, Spring), pp. 333– 75, 
+https://www.brookings.edu/bpea -articles/okun -revisited -who-benefits -most -from -a-strong -economy ; and 
+Tomaz Cajner, Tyler R adler, David Ratner, and Ivan Vidangos  (2017) , “Racial Gaps in Labor Market 
+Outcomes in the Last Four Decades  and over the Business Cycle ,” Finance and Economics Discussion 
+Series 2017 -071 (Washington:  Board of Governors of the Federal Reserve System, Jun e), 
+https://doi.org/10.17016/FEDS.2017.071 .  - 4 - 
+The L abor Market T oday  
+The state of  our labor market  today could hard ly be more different.  Despite the 
+surprising speed of  recovery early on , we are still very far from a strong labor market 
+whose benefits are broadly shared.  Employment in January of this year was  nearly 
+10 million below its  February 2020 level, a greater shortfall than the worst of  the Great 
+Recession ’s aftermath  (figure 5) . 
+After rising to 14.8 percent in April  of last year , the published unemployment rate 
+has f allen relatively swiftly , reach ing 6.3 percent in January .  But  published 
+unemployment rates during COVID have dramatically understated the deterioration in the 
+labor market.  Most  importantly, the pandemic  has led t o the largest 12 -month decline  in 
+labor force participation  since at least 1948.5  Fear of the virus an d the disappearance of 
+employment opportunities in the sectors most affected by it, such as  restaurants , hotels, 
+and entertainment  venues, have led many to withdraw from the workforce.  At the same 
+time,  virtual schooling has forced many parents to leave t he work force to provide all -day 
+care for their children.  A ll told , nearly 5 million people  say the pandemic prevented them 
+from looking for work in January.  In addition, t he Bureau of L abor S tatistics  reports that 
+many unemployed individuals have been misclassified as employed.  Correcting this misclassification and c ounting those who have left the labor force since last February as 
+unemployed  would boost the unemployment rate to close to 10  percent in  January 
+(figure  6). 
+Unfortunately, even those grim statistics understate the decline in labor market 
+conditions for the most economically vulnerable Americans.  Aggregate employment has 
+                                                 
+5 Published monthly data on labor force participation begin in 1948.   - 5 - 
+declined 6.5  percent since last February, but the decline in employme nt for workers in the 
+top quartile of the wage distribution has been only 4 percent , while the decline for the 
+bottom quartile has been a staggering 17 percent ( figure  7).  Moreover, employment for 
+these workers has changed little in recent months, while e mployment for the higher -wage 
+groups has continued to improve.  Similarly, the unemployment r ates for Blacks and 
+Hispanics have risen significantly more than for whites  since February 2020 ( figure  8).  
+As a result, economic disparities that were already too wide  have widened further.  
+In the past few months, improvement in labor market conditions stalled as the rate 
+of infections  sharply increased .  In particular, jobs in the leisure and hospitality se ctor 
+dropped over  1/2 million in December and a further 61,000 in January.  The recovery 
+continues to depend on controlling the spread of the virus, which will require  mass 
+vaccinations  in addition to continued vigilance in social distancing and mask weari ng in 
+the meantime.  
+Since the onset of the pandemic, we have been concerned about its longer -term 
+effects on the labor market.  Extended periods of unemployment can inflict persistent 
+damage on lives and livelihoods  while also eroding the productive capac ity of the 
+economy.6  And w e know from the previous expansion that it can take many years to 
+reverse the  damage.  
+                                                 
+6 For research on the adverse consequences of permanent job loss, see Steven J. Davis and Till von Wachter 
+(2011), “Recessions and the Costs of Job Loss,” in David H. Romer and Justin Wolfers, eds., Brookings 
+Papers on Economic Activity  (Washington:  Brookings Institution Press , Fall ), pp. 1 –75, 
+https://www.brookings.edu/bpea -articles/recessions -and-the-costs -of-job-loss; Kenneth A. Couch and 
+Dana  W. Placzek (2010), “ Earnings Losses of Displaced Workers Revisited,” American Economic Review, 
+vol. 100 (March), pp. 572– 89; and Louis S. Jacobson, Robert J. LaLonde, and Daniel G. Sullivan (1993), 
+“Earnings Losses of Displaced Workers,” American Economic Review, vol. 83 (Sep tember), pp. 685 –709.  - 6 - 
+At the start of the pandemic , the increase in unemployment was almost entirely 
+due to temporary job loss es.7  Temporarily laid -off workers tend to  return to work much 
+more quickly, on average, than those whose ties to their former employer s are 
+permanently severed.  But as some sectors of the economy have continued to struggle , 
+permanent job loss has increased  (figure  9).  So too has long -term un employment.  Still, 
+as of January, the level of permanent job loss, as a fraction of the labor force, wa s 
+considerably smaller than during the Great Recession.  Research shows that the Paycheck 
+Protection Program has played an important role in limiting pe rmanent layoffs and 
+preserving small businesses.8  The renewal of the program this year in the face of another 
+surge in COVID- related job cuts is  an encouraging development.  
+Of course, in a  healthy market -based economy, perpetual churn will always 
+render  some jobs obsolete as they are  replaced by new employment opportunities .  Over 
+time, w orkers and capital move from firm to firm and from sector to sector .  It is likely 
+that the pandemic has  both increased the need for such movements and brought forward 
+some movement  that would have occurred eventually.9   
+                                                 
+7 The Bureau of Labor Statistics defines a job loss as temporary if the affected worker has been given a date 
+to return to work or expects to be recalled to their former job within six months.   
+8 For research on the effect of the Paycheck Protection Program on employment, see David Autor , David 
+Cho, Leland D. Crane, Mita Goldar, Byron Lutz, Joshua Montes, William B. Peterman, David Ratner, 
+Daniel Villar,  and Ahu Yildirmaz  (2020), “An Evaluation of the Paycheck Protection Program Us ing 
+Administrative Payroll Microdata,” preliminary paper, Massachusetts Institute of Technology, July, 
+https://economics.mit.edu/files/20094 ; João Granja, Christos Makridis, Constantine Yannelis, and Er ic 
+Zwick (2020), “Did the Paycheck Protection Program Hit the Target?” NBER Working Paper Series 27095 
+(Cambridge, Mass.:  National Bureau of Economic Research, May (revised November 2020)),  
+https://www.nber.org/system/files/working_papers/w27095/w27095.pdf ; and R. Glenn Hubbard and 
+Michael R. Strain (2020), “Has the Paycheck Protection Program Succeeded?” NBER Working Paper 
+Series 28032 (Cambridge, Mass.:  National Bureau of  Economic Research, October), 
+https://doi.org/10.3386/w28032 . 
+9 For a description of the reallocation of resources induced by the COVID -19 shock, see Jose Maria 
+Barrero, Nicholas Bloom, and Steven J. Davis  (2020), “COVID -19 Is Also a Reallocation Shock,” NBER 
+Working Paper Series 27137 (Cambridge, Mass.:  National Bureau of Economic Research, May), 
+https://doi.org/10.3386/w27137 .  - 7 - 
+Getting B ack to a S trong L abor M arket  
+So how do we get from where we are today back to a strong labor market that 
+benefits all Americans and that starts to heal the damage already  done?  And what can we 
+do to sustain  those benefits over time ?  Experience tells us that get ting to and staying at 
+full employment  will not be  easy .  In the near term, polic ies that  bring the pandemic to an 
+end as soon as possible are paramount .  In addition, w orkers and households who struggle 
+to find their place in the post -pandemic economy are likely to need continued support.  
+The same is true for many small businesses that  are likely  to prosper again once the 
+pandemic is behind us.   
+Also important is a patie ntly accommodative  monetary policy stance that 
+embraces the lessons of the past —about the labor market in particular and the economy 
+more generally.  I described several of those important lessons , as well as our new policy 
+framework, at the  Jackson Hole c onference  last year.10  I have  already mentioned the 
+broad- based benefits that a strong labor market can deliver and noted that many of these 
+benefits only arose toward the end of the previous expansion.  I also noted that these 
+benefits were achieved with low inflation.  Indeed, inflation has been much lower and 
+more stable over the past three decades than in earlier times.  
+In addition, we  have  seen  that the longer -run potential growth rate of the economy 
+appear s to be lower than it once was, in part because of  population aging, and that the 
+neutral rate of interest— or the rate consistent with the economy being at full employment 
+with 2  percent inflation —is also much lower than before.  A low neutral rate means t hat 
+                                                 
+10 See Jerome H. Powell (2020), “New  Economic Challenges and the Fed’s Monetary Policy Review,” 
+speech delivered at “Navigating the Decade Ahead:  Implications for Monetary Policy,” a symposium 
+sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., August 27, 
+https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm .  - 8 - 
+our policy rate will be constrained more often by the effective lower bound.  That  
+circumstance can lead to worse economic outcomes—particularly for the most 
+economically vulnerable Americans.   
+To take these economic developments into account, we made  substantial revisions 
+to our monetary policy framework, as described in the FOMC’s S tatement on L onger -
+Run G oals and M onetary P olicy S trategy.11  This revised statement shares many features 
+with its predecessor, including our view that longer -run inflation of 2  percent is most 
+consistent with our mandate to promote maximum employment and price stability.  But it also has some innovations. 
+The revised statement emphasizes that maximum employment is a broad and 
+inclusive goal.  This change reflects our apprec iation for the benefits of a strong labor 
+market, particularly for many in low - and moderate -income communities.  R ecognizing 
+the economy’s ability to sustain a robust job market without causing an unwanted 
+increase in  inflation, the statement says that ou r policy decisions will be informed by our 
+“assessments of the shortfalls  of employment from its maximum level” rather than by 
+“deviations  from its maximum level. ”
+12  This means that we will not tighten monetary 
+policy solely in response to a strong labor market.  Finally, to counter  the adverse 
+economic dynamics that could ensue from declines in inflation expectations in an 
+environment where our main policy tool is more frequently constrained, we now  
+explicitly  seek to achieve inflation that averages 2  percent over time.   This means that 
+following periods when inflation has been running persistently below 2 percent, 
+                                                 
+11 The FOMC’s Statement on Longer -Run Goals and Monetary Policy Strategy, revised in August 2020 and 
+reaffirmed in January,  is available on the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf . 
+12 Italics added for empha sis.  See Powell, “New Economic Challenges,” p. 11, in note 10.  - 9 - 
+appropriate monetary policy will likely aim to achieve inflation moderately above 
+2 percent for some time in the service of keeping inflation expectations well anchored at our 2 percent longer -run goal . 
+Our January postmeeting statement on monetary policy implements  this new 
+framework.
+13  In particular, we expect that it will be appropriate to maintain the current 
+accommodative target range of the federal funds rate until labor market conditions have reached levels consistent with maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time.  In addition, we will  
+continue to increase our holdings of Treasury securities and agency mortgage -backed 
+securities by $80 billion and $40 billion per month, respectively, until substantial further progress has been made toward our maximum -employment and price -stability goals.  
+The B road Responsibility for A chieving M aximum E mployment  
+Seventy- five years ago, in the wake of WWII, the U nited S tates faced the 
+challenge of reemploying millions amid a major restructuring of the economy toward peacetime ends.
+14  Part of Congress ’s response was the Employment Act of 1946, which 
+states that “it is the continuing policy and responsibility of the federal government to use all practicable means . . . to promote maximum employment.”
+15  As later amended  in the 
+Humphrey- Hawkins Act , this pr ovision formed the basis of the  employment side of the 
+                                                 
+13 See Board of Governors of the Federal Reserve System (2021), “Federal Reserve Issues FOMC 
+Statement,” press release, January 27,  
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm . 
+14 See Joseph T. Glatthaar (2018), The American Military:  A Concise History  (New York:  Oxford 
+University Press).  
+15 For a discussion, see  Aaron S teelman (2013), “ Employment Act of 1946 ,” in Federal Reserve History,  
+https://www.federalreservehistory.org/essays/employment -act-of-1946 ; the quotation from the act is 
+reprinted in Steelman,  paragraph 1.   - 10 - 
+Fed’s dual mandate .  My colleagues and I are strongly committed to doing all we can to 
+promote this employment goal.   
+Given the number of people who have lost their jobs and the likelihood that some 
+will struggle to find work in the post -pandemic economy, achieving and sustaining 
+maximum employment will require more than supportive monetary policy.  It will require 
+a society -wide commitment, with contributions from across government and the private 
+sector.  The potential benefits of investing in our nation’s workforce are immense.  Steady employment provides more than a regular paycheck.  It also bestows a sense of purpose, improves mental health, increases lifespans, and benefits workers and their families.
+16  I am confident that with our collective efforts across the government and the 
+private sector, our nation will make sustained progress toward our national goal of maximum employment.   
+ 
+                                                 
+16 See, for example, Daniel Sullivan and Till von Wachter (2009), “Job Displacement and Mortality:  An 
+Analysis Using Administrative Data,” Quarterly Journal of Economics, vol. 124 (August), pp. 1265– 1306;  
+Philip Oreopou los, Marianne Page, and Ann Huff Stevens  (2008), “The Intergenerational Effects of 
+Worker Displacement,” Journal of Labor Economics, vol. 26 (July), pp. 455– 83; and Bruno S. Frey and 
+Alois Stutzer (2002), “What Can Economists Learn from Happiness Research? ” Journal of Economic 
+Literature, vol. 40 (June), pp. 402– 35.   
+ 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020 
+0510152025PercentFigure 1. Unemployment Rate
+              Note: Published data on unemployment rates by race start in 1972.
+              Source: Bureau of Labor Statistics.Feb. 2020Monthly
+Unemployment rate
+Black unemployment rate2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 
+7576777879808182838485PercentFigure 2. Prime-Age Labor Force Participation
+              Note: Prime age refers to ages 25 to 54.
+              Source: Bureau of Labor Statistics and Board staff calculations using microdata from the Current Population Survey.Feb. 2020Monthly
+All workers
+Workers without a college degree 
+0102030405060708090PercentFigure 3. Labor Force Participation Rate in OECD Countries: 25-64 Year Olds, 2019
+Turkey
+Mexico
+South Africa
+Italy
+Croatia
+N. Macedonia
+Brazil
+Romania
+South Korea
+Indonesia
+Greece
+Poland
+Namibia
+Belgium
+Chile
+Costa Rica
+United States
+Luxembourg
+IrelandFrance
+Malta
+HungarySlovakia
+Israel
+Columbia
+AustriaRussia
+Australia
+Spain
+Bulgaria
+Slovenia
+Canada
+Great Britain
+Cyprus
+Denmark
+Finland
+Netherlands
+Norway
+Portugal
+Latvia
+Czech Republic
+Germany
+Estonia
+New Zealand
+Japan
+Lithuania
+Switzerland
+Iceland
+Sweden                Note: OECD is Organisation for Economic Co-operation and Development.
+                Source: OECD (2021), ’’Labour force participation rate’’ (indicator), https://doi.org/10.1787/8a801325-en (accessed on February 1, 2021).2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 
+0.00.51.01.52.02.53.03.54.04.55.05.5PercentFigure 4. Wage Growth for Low Earners Compared with Other Workers
+              Note: Three-month moving average of the median 12-month change in individual wages.
+              Source: Federal Reserve Bank of Atlanta, Wage Growth Tracker.Feb. 2020Monthly
+Bottom wage quartileBottom-middle wage quartileTop-middle wage quartileTop wage quartile2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+120130140150160MillionsFigure 5. Payroll Employment
+              Note: Red arrows indicate the peak-to-trough change in employment during the Great Recession and the decline in employment from February 2020 to January 2021.
+              Source: Bureau of Labor Statistics.-8.7 million-9.9 million
+Jan. 2021MonthlyJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan
+2020 2021 
+369121518212427PercentFigure 6. Official and Alternative Unemployment Rates
+              Source: Bureau of Labor Statistics; Board staff calculations.        Jan. 2021Monthly
+. . . . . . . . . . . .Published unemployment
++ misclassification error
++ labor force decline since Feb. 2020Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan
+2020 2021 
+5060708090100110PercentFigure 7. Employment by Wage Quartile
+              Note: Employment indexed to 100 as of Feb. 15, 2020.  Wage quartiles are defined using the February 2020 wage distribution.
+              Source: Board staff calculations based on employment data from ADP, Inc.Jan. 9, 2021
+. . . . . . . . . . . .Weekly
+Bottom
+Bottom-middleTop-middle
+TopFeb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan
+2020 2021 
+0246810121416Percentage pointsFigure 8. Change in Unemployment Rate by Race/Ethnicity since February 2020
+              Source: Bureau of Labor Statistics.Jan. 2021Monthly
+. . . . . . . . . . .White
+Black
+Asian
+Hispanic2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+024681012PercentFigure 9. Permanent and Temporary Layoffs
+                Note: Number of individuals on permanent and temporary layoff as a percent of the labor force. 
+                Source: Bureau of Labor Statistics.Jan. 2021Monthly
+Temporary
+Permanent

@@ -9,22 +9,22 @@ This project harnesses Natural Language Processing (NLP) to analyze public speec
 
 The global economy continues to grapple with the impacts of the Covid-19 pandemic, with the US Federal Reserve largely responsible for shaping economic stability. Federal Reserve Chairman Jerome Powell periodically makes public statements on monetary policy, including federal interest rates, which "The Fed" ultimately controls. Since the inception of Covid-19 in the US, these speeches of federal monetary policy have incited pronounced volatility and trading activity in the stock market.
 
-The objective is to develop a model that, on average, would yield profitable results when applied to invest in S&P500 index or reverse index funds based on predicted market direction. This report outlines the project's methodology and findings covering data wrangling, Exploratory Data Analysis (EDA), feature engineering, and machine learning modeling.
+The objective is to develop an NLP model that analyzes speeches from The Fed and, on average, would yield profitable results when applied to guide investment in S&P500 index or reverse index funds based on predicted market direction. This report outlines the project's methodology and findings covering data wrangling, Exploratory Data Analysis (EDA), feature engineering, and machine learning modeling.
 
 ## Dataset
-This analysis is based on two key datasets: speech transcripts from Chair Jerome Powell and daily S&P500 stock market data. The speech transcripts, sourced from the Federal Reserve's website, were initially in PDF format and had to be converted to plain text files. This text was then cleaned by preprocessing methods, including converting all letters to lowercase, removing punctuation and common English stop words, and tokenizing the text.
+This analysis is based on two key datasets: speech transcripts from Chair Jerome Powell and daily S&P500 stock market data. The speech transcripts, sourced from the Federal Reserve's website, were initially in PDF format and were converted to plain text files. This text was then cleaned by preprocessing methods, including converting all letters to lowercase, removing punctuation and common English stop words, and tokenizing the text.
 
 The S&P500 historical records data were sourced from investing.com and required light preprocessing, including the removal of empty fields and conversion of numeric values to suitable data types. Fields representing the Maximum and Minimum price for each trading day were used to create a new field, daily span, which serves as a proxy for daily market volatility.
 
-Additionally, the stock market data was aggregated on a weekly basis to create features that represent the market value, volatility, and returns for any 7-day span. The S&P data was then merged with the data from Chair Powell's speeches so the market features became linked to the weeks preceding and following each speech.
+Additionally, the stock market data was aggregated on a weekly basis to create features that represent the mean market value, volatility, and returns for any 7-day span. The S&P data was then merged with the data from Chair Powell's speeches so the market features became linked to the weeks preceding and following each speech.
 
 ## EDA and Feature Engineering
 The analysis aimed to understand how the features of the speech text interact with the features of the stock market data. Sentiment analysis was performed on Chair Jerome Powell's speeches using the VADER module from Python's Natural Language Toolkit (NLTK) suite. The rolling stock market features surrounding each speech were visualized to identify trends, and relevant features for modeling were identified. A binary target variable was created to represent whether the S&P500 index increased in value from the week before to the week after a given speech.
 
-Speech-text data was vectorized into a format compatible with standard Machine Learning models using TF-IDF and Bag of Words vectorization techniques. The datasets were oversampled to create balanced-class training sets.
+Speech-text data was vectorized into a format compatible with standard Machine Learning models using both TF-IDF and Bag of Words vectorization techniques. The datasets were oversampled to create balanced-class training sets, while also preserving the natural/imbalanced class sets. Each of the 4 data set combinations of balanced OR imbalanced classes and TF-IDF OR BoW vectorization were preserved for model training and performance comparison.
 
 ## Modeling
-Logistic Regression, Random Forest Classifier, and Support Vector Machine models were trained and evaluated using cross-validation for different data input combinations. The Random Forest Classifier model was selected as the final model after hyperparameter tuning. The final model achieved an accuracy of about 72% when evaluated using the holdout validation dataset.
+Logistic Regression, Random Forest Classifier, and Support Vector Machine models were trained and evaluated using cross-validation for each different data input combination. The Random Forest Classifier model was selected as the final model after hyperparameter tuning. Due to the small data set size, model performance was then evaluated using Cross Validation (CV) techniques. The tuned RF model achieved a mean CV accuracy of about 72% when evaluated using the holdout validation dataset.
 
 A simulation was performed to model how applying a predictor with 72% accuracy may behave for predicting market moves following a speech.
 
@@ -35,4 +35,5 @@ It is recommended to use the re-trained Random Forest model on 100% of the avail
 
 #### References
 Federal Reserve (speeches): https://www.federalreserve.gov/newsevents/speeches.htm
+
 Stock Market Data Source: https://www.investing.com/indices/us-spx-500-historical-data

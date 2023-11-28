@@ -40,7 +40,7 @@ A simulation was performed to model how applying a predictor with 72% accuracy m
 1) A modified psuedo random walk representing the returns of a model with 72% accuracy on predicting market moves across historical speeches given a starting value of 100USD
 ![one walk eg](https://github.com/jpbaselj/J-Powell-SP500-Influence/blob/main/documentation/sim_walking_eg.png)
   
-2) The distribution of the resulting market return of simulating the psuedo random walk on historical data many times
+2) The distribution of the resulting market return of simulating the psuedo random walk on historical data 1000 times
 ![simulation distribution](https://github.com/jpbaselj/J-Powell-SP500-Influence/blob/main/documentation/sim_spread_outcomes.png)
 
 
